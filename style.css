@@ -65,7 +65,7 @@ body{
     width:100%;
 }
 .about-right-area{
-    margin-top:120px;
+    margin-top:50px;
     padding-left:100px;
 }
 .about-right-area h2{
@@ -83,5 +83,42 @@ body{
     padding:10px 25px;
     border-radius: 20px;
 }
-
-
+#recipies{
+    width:80%;
+    margin:0 auto;
+    padding:60px 0px;
+}
+.top-title{
+    width:50%;
+    margin:0 auto;
+    text-align:center;
+}
+.recipe-area img{
+    width:100%;
+    
+}
+.recipe-area{
+    display:flex;
+}
+.recipi-title{
+    width:30%;
+    padding:2%;
+    margin:2%;
+    box-shadow: 10px 10px 40px black;
+    border-radius:15px;
+}
+.footer{
+    text-align:center;
+    background-color:#0A0D16;
+    padding:20px 0px;
+}
+.footer h2{
+    color:#5B5B5B;
+    padding-bottom:10px;
+}
+.footer p{
+    color:white;
+}
+.foot-span{
+    color:#FC8646;
+}
